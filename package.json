@@ -2,6 +2,7 @@
   "name": "ajith-koli-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.11.3",
